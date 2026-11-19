@@ -1,5 +1,6 @@
 # app-site
 
+[![Deploy website](https://github.com/shenghaiyang/app-site/actions/workflows/deploy.yml/badge.svg)](https://github.com/shenghaiyang/app-site/actions/workflows/deploy.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
